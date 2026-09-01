@@ -32,7 +32,7 @@ matplotlib, seaborn, langchain_nvidia_ai_endpoints, umap-learn, langchain_groq
 1. **Install Dependencies**: Run the setup cells to install all required libraries
 2. **Configure Environment**: Set up API keys for Groq/OpenAI (handled via environment variables)
 3. **Load Dataset**: The notebook imports the NY House Dataset from Kaggle
-4. **Initialize LLM**: Connects to Groq's LLM with GPT-OSS-20B model
+4. **Initialize LLM**: Connects to Groq's LLM with GPT-OSS-120B model
 
 ## Main Components
 
